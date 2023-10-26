@@ -9,7 +9,7 @@ Investment Game is a captivating simulation game developed in Pygame. The game c
 
 - Players can make crucial decisions every day: invest in specific stocks, divest, or pull back their investments to the safety of a savings account.
 
-<img src="https://github.com/VenturaBleak/InvestmentGame/blob/master/Investment_Game.png" width="50%" height="50%">
+<img src="https://github.com/VenturaBleak/InvestmentGame/blob/master/Investment_Game.png" width="90%" height="90%">
 
 ## Repo Structure
 ### Main Directory:
